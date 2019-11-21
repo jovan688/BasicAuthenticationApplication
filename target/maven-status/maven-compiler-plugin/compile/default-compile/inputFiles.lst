@@ -1,0 +1,7 @@
+/home/jrostran/Descargas/BasicAuthentication/src/main/java/com/example/BasicAuthentication/entity/Profesor.java
+/home/jrostran/Descargas/BasicAuthentication/src/main/java/com/example/BasicAuthentication/Service/ProfesorServiceImpl.java
+/home/jrostran/Descargas/BasicAuthentication/src/main/java/com/example/BasicAuthentication/BasicAuthenticationApplication.java
+/home/jrostran/Descargas/BasicAuthentication/src/main/java/com/example/BasicAuthentication/Dao/IProfesorDao.java
+/home/jrostran/Descargas/BasicAuthentication/src/main/java/com/example/BasicAuthentication/Service/IProfesorService.java
+/home/jrostran/Descargas/BasicAuthentication/src/main/java/com/example/BasicAuthentication/security/SecurityConfig.java
+/home/jrostran/Descargas/BasicAuthentication/src/main/java/com/example/BasicAuthentication/controller/ProfesorController.java
